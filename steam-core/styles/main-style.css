@@ -1,0 +1,75 @@
+html{	
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 16px;
+}
+body, #app {
+	background-color: #212a3e;
+	color: #cfcfcf;
+}
+
+#app {
+	margin-top: 6em;
+}
+
+/* Utilities */
+.u-InlineB-M {
+	display: inline-block;
+	vertical-align: top;
+}
+.u-Block {
+	display: block;
+	text-align: left;
+	marin: 0;
+	padding: 0;
+}
+.u-Ta-R {
+	text-align: right;
+}
+.u-Ta-C {
+	text-align: center;
+}
+
+
+#user-Details {
+	margin: 0 auto 2em;
+}
+
+.user-H {
+	font-size: 2em;
+}
+		.user-Ava {
+			
+		}
+
+		.user-Name {
+			
+		}
+
+.game-Info {
+		font-size: 2em;
+		color: #222222;
+}
+
+
+#navigationbar ul li p {
+	padding: 10px;
+}
+
+@media (min-width: 768px) {
+	#navigationbar ul li p {
+		padding: 0px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
